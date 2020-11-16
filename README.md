@@ -11,9 +11,8 @@ It is each presenter's responsibility to update the schedule below and update th
 Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
-:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :--- | : ---
 12-11-2020 | *Interspecific Gene Flow Shaped the Evolution of the Genus Canis* | Shyam et al | Winfred Gatua | [Paper](https://www.sciencedirect.com/science/article/pii/S0960982218311254) |
-26-11-2020 |  | | Ruth Nanjala |
 
 ---
 
