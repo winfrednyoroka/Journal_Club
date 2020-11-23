@@ -12,5 +12,6 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 ---
 
 When you are the presenter, do the following:
- 1. Update the tabulated section of this file
- 2. Send a pull request to the master branch.
+ 1. Fork this repository.
+ 2. Update the tabulated section of this file.
+ 3. Send a pull request to the master branch.
