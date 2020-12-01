@@ -6,7 +6,7 @@ Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 :---: | :---: | :--- | :--- | :--- | :---
-12-11-2020 | *Interspecific Gene Flow Shaped the Evolution of the Genus Canis* | Shyam et al | Winfred Gatua | [Paper](https://www.sciencedirect.com/science/article/pii/S0960982218311254) | [Presentation_link]() 
+12-11-2020 | *Interspecific Gene Flow Shaped the Evolution of the Genus Canis* | Shyam et al | Winfred Gatua | [Paper](https://www.sciencedirect.com/science/article/pii/S0960982218311254) | [Presentation_link](https://github.com/winfrednyoroka/Journal_Club/blob/main/Winfred_GatuaJC%20copy.pptx.zip) 
 26-11-2020 | *Comprehensive Assessment of Genotype Imputation Perfomance* | Shuo et al | Ruth Nanjala | [Paper](https://www.karger.com/Article/Abstract/489758) | [Presentation_link](https://docs.google.com/presentation/d/1uh6Hl_tnCN9FPHxXBVDGPQqHv4aMu5G48ISxgEqtKWs/edit#slide=id.p)
 
 ---
