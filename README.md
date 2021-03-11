@@ -13,6 +13,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 28-01-2021 | *A cross-platform approach identifies genetic regulators of human metabolism and health* | Lotta et al | Festus Nyasimi | [Paper](https://www.nature.com/articles/s41588-020-00751-5) | [Presentation_link](https://drive.google.com/file/d/1P5P0vhA-o8TYmIoT1UkwvM3XbbyyAVlu/view?usp=sharing)
 11-02-2021 | *IBM’S Watson Analytics for Health Care: A Miracle made true* | Mayank et al | Geoffrey Kimani | [Paper](https://drive.google.com/file/d/1k_mnG8mahJdSvVbiikFVBL04LFTC6omc/view?usp=sharing) | [Presentation_link](https://drive.google.com/file/d/1d-D63oBLoszthrm3I5oI7vHZMq-pVaKa/view?usp=sharing)
 25-02-2021 | *A Brief history of bioinformatics* | Jeff et al | Ruth Nanjala | [Paper](https://academic.oup.com/bib/article-abstract/20/6/1981/5066445) | [Presentation_link](https://docs.google.com/presentation/d/1YlxyFsrnF67pShl5kbLioi-a29cse7SfFbxRTBVehQU/edit#slide=id.p)
+11/03/2021| *Three-gene PCR and high-resolution melting analysis for differentiating vertebrate species mitochondrial DNA for biodiversity research and complementing forensic surveillance*| Ouso et al | Winfred Gatua | [Paper](https://www.nature.com/articles/s41598-020-61600-3.pdf)|[Presentation link](https://drive.google.com/file/d/14SuZNBgU59rSdVB-e5BJe0CeUp-jyhE6/view?usp=sharing)
 
 
 ---
